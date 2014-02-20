@@ -10,4 +10,5 @@ To get started, open the index.html file to find instructions and examples. You'
   1. **Bold** some text
   2. Your bolded text here:**emchance**
   3. Make a
-  ###headline###
+  
+  ###Headline###
