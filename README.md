@@ -7,5 +7,5 @@ To get started, open the index.html file to find instructions and examples. You'
 
 ##Exercise 1##
 
-  - **Bold** some text
-  - Your bolded text here:**emchance**
+  * **Bold** some text
+  * Your bolded text here:**emchance**
