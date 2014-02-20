@@ -16,3 +16,6 @@ To get started, open the index.html file to find instructions and examples. You'
   4. Your headline here: 
 
   ###My Github Page###
+  
+  
+  5. Add an image
