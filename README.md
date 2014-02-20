@@ -12,3 +12,7 @@ To get started, open the index.html file to find instructions and examples. You'
   3. Make a
   
   ###Headline###
+
+  4. Your headline here: 
+
+  ###My Github Page###
