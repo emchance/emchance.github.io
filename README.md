@@ -24,4 +24,5 @@ To get started, open the index.html file to find instructions and examples. You'
   8. Your link here: [Prestwick Country Club](http://www.prestwickcountryclub.com/)
   9. Add another item to the bottom of the list!
   10. Read about [other HTML tags](http://www.quackit.com/html/tags/) that haven't been used yet!
+
   <big>Prestwick Country Club</big>
