@@ -22,3 +22,6 @@ To get started, open the index.html file to find instructions and examples. You'
   6. Your image here: :<img src="https://scontent-b-iad.xx.fbcdn.net/hphotos-prn2/t1/9504_10202448733490475_1147271223_n.jpg" height="250" width="400"</li>
   7. [Link](http://www.coceleratoru.com) to some website.
   8. Your link here: [Prestwick Country Club](http://www.prestwickcountryclub.com/)
+  9. Add another item to the bottom of the list!
+  10. Read about [other HTML tags](http://www.quackit.com/html/tags/) that haven't been used yet!
+  <big>Prestwick Country Club</big>
