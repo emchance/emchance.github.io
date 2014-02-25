@@ -18,4 +18,4 @@ To get started, open the index.html file to find instructions and examples. You'
   ###My Github Page###
   
   
-  5. Add an image
+  5. Add an image ([heres some help](http://forum.koramgame.com/thread-60307-1-1.html))
